@@ -8,12 +8,12 @@
 
 ## 🚀 Expertise
 
-* Functional Testing
-* Regression Testing
-* End-to-End (E2E) Testing
-* API Testing
-* Database Testing
-* Cross-Browser Testing
+* Functional, Regression & End-to-End (E2E) Testing  
+* API & Database Testing  
+* Cross-Browser & Cross-Platform Testing  
+* Integration, Smoke & Sanity Testing  
+* Exploratory Testing & Edge Case Identification  
+* Test Case Design, Execution & Defect Tracking  
 
 ---
 
@@ -28,10 +28,14 @@
 
 ## 📚 Knowledge Base
 
-* SDLC & STLC
-* Defect Life Cycle
-* Test Case Design Techniques
-
+* Software Development Life Cycle (SDLC) & Software Testing Life Cycle (STLC)  
+* Defect Life Cycle & Root Cause Analysis  
+* Test Case Design Techniques (Boundary Value Analysis, Equivalence Partitioning, Decision Table)  
+* Agile & Scrum Methodology  
+* Test Planning & Estimation  
+* Risk-Based Testing  
+* API Testing Concepts (Request/Response, Status Codes, Authentication)  
+* Database Testing (CRUD Operations, Data Validation)  
 ---
 
 ## 🤖 AI in Testing
