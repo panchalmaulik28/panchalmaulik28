@@ -68,6 +68,6 @@
   
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect - [LinkedIn](https://github.com/panchalmaulik28)
 
 * Open to collaboration on QA & Automation projects
