@@ -57,7 +57,9 @@
 ## 📌 Featured Projects
 
 👉 Selenium Automation Framework (POM + TestNG)
+
 👉 Playwright Automation Framework (Java)
+
 👉 API Automation Framework (Rest Assured)
   
 ---
