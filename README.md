@@ -45,8 +45,11 @@
 ## 🧠 What I Bring
 
 ✔ Strong debugging & root cause analysis skills
+
 ✔ Experience leading QA teams & managing releases
+
 ✔ Focus on delivering high-quality, bug-free products
+
 ✔ Real-world testing experience across multiple domains
 
 ---
